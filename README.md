@@ -1,7 +1,5 @@
 # Hey, I'm Jacob 👋
 
-I'm a researcher and software engineer working on **representation learning, self-supervised learning, and model understanding**.
-
 I'm currently a researcher at the NerDS Lab at UPenn, where I work on learning transferable representations from large-scale neural datasets across subjects, recording sessions, and modalities. My work involves building PyTorch training and evaluation pipelines, studying cross-domain generalization, and analyzing how learned representations change across contexts and behavioral states.
 
 ## Research Interests
