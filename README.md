@@ -1,14 +1,24 @@
 # Hey, I'm Jacob 👋
 
-I'm a Computer Science major at UC Santa Cruz, interested in anything to do with predicting patterns! I'm currently in preparation for a PhD, looking to focus on Computational Neuroscience / NeuroAI 🧠
+I'm a researcher and software engineer working on **representation learning, self-supervised learning, and model understanding**.
 
-## Current Research Interest
+I'm currently a researcher at the NerDS Lab at UPenn, where I work on learning transferable representations from large-scale neural datasets across subjects, recording sessions, and modalities. My work involves building PyTorch training and evaluation pipelines, studying cross-domain generalization, and analyzing how learned representations change across contexts and behavioral states.
 
-I'm currently working on **Self-Supervised Learning for electrophysiological brain data**, specifically exploring Joint-Embedding Predictive Architecture (JEPA) models and their ability to distill representations into Spiking Neural Networks. The goal with this project is to understand how we can learn efficient, interpretable representations from neural recordings without labels.
+## Research Interests
 
-## Here are some ways to contact me!
+I'm broadly interested in understanding **what neural networks learn internally and how those representations generalize**.
+
+Some of the areas I'm currently interested in include:
+
+- Representation learning and self-supervised learning
+- Model interpretability and representation analysis
+- Cross-domain and zero-shot generalization
+- Evaluation of learned representations and model behavior
+- Foundation models and reusable computational structure
+
+My recent work has included zero-shot neural decoding, cross-subject representation learning, and analysis of latent representation dynamics.
+
+## Contact
 
 - **Email:** jake.poschl@gmail.com
-- **LinkedIn:** linkedin.com
-
----
+- **LinkedIn:** [linkedin.com/in/jacobposchl](https://linkedin.com/in/jacobposchl)
