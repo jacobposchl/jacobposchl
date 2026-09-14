@@ -15,8 +15,3 @@ Some of the areas I'm currently interested in include:
 - Foundation models and reusable computational structure
 
 My recent work has included zero-shot neural decoding, cross-subject representation learning, and analysis of latent representation dynamics.
-
-## Contact
-
-- **Email:** jake.poschl@gmail.com
-- **LinkedIn:** [linkedin.com/in/jacobposchl](https://linkedin.com/in/jacobposchl)
